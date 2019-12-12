@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./docplanner.css">
+    <script src="https://kit.fontawesome.com/afff9c014a.js"></script>
+    <title>Document</title>
+</head>
+<body>
+<div class="header">
+    <img src="https://www.docplanner.com/img/logo-default-group-en.svg?v=1" alt="image" width="250px">
+    <div class="menu">
+        <p>About us</p>
+        <p>Career</p>
+        <p>Departments</p>
+    </div>  
+</div>
+<div class="main">
+<div class="logo"><img src="Capture.PNG"/>
+</div>    
+<div class="title">
+<p>Making the healthcare experience more human</p>
+ </div>   
+<div class="text">
+    <p class="para">We want patients to find the perfect doctor and book an appointment in the most easy way. The patient journey should be enjoyable, and that's why we are always next to them: to help them find the best possible care. Anytime, anywhere.</p>
+    <p class="para">We also help doctors to better manage their practice and build their online reputation. With our integrated end-to-end solution, doctors are able not only to improve their online presence, but also to devote their time to what really matters: their patients.</p>
+</div>
+<div class="cards">
+<div id="box" class="bbbb">
+    <div class="cont"><p>For patients</p>
+        <p> <Strong>Find a doctor, book a visit and solve any health-related doubt</Strong></p>
+        <span class="btn">CHOOSE COUNTRY</span>
+    </div>
+    <div class="photo-con">
+        <img class="photo" src="https://www.docplanner.com/img/screen-marketplace@2x.png" alt="image">
+    </div>
+</div>
+    
+<div id="box1" class="bbbb">
+    <div class="cont1">
+            <p>For doctors</p> 
+            <p><Strong>Save time managing visits and cut no-shows by half</Strong></p>
+    </div>
+    <div id="photo-con">
+        <img class="photo1" src="https://www.docplanner.com/img/screen-saas@2x.png" alt="image"/>
+    </div>
+            
+    </div>
+</div>   
+</div>
+<div class="items">
+    <p id="gras">We are a global company 
+            with local culture</p>
+    <div class="logodoc">
+        <ul class="drop-menu">
+          <p><i class="fab fa-galactic-senate"></i> ZnanyLakarz</p>
+          <p><i class="fab fa-galactic-senate"></i> Doctoralia</p>
+          <p><i class="fab fa-galactic-senate"></i> MioDottore</p>
+          <p><i class="fab fa-galactic-senate"></i> DoktorTakvimi</p>
+          <p><i class="fab fa-galactic-senate"></i> ZnamyLekar</p>
+    </ul>
+    </div>
+</div>
+<div id="box2">
+    <div class="first-box">
+        <div>
+        <p class="title"><Strong>The world's </br> 
+                            biggest healthcare platform</Strong></p>
+        <p class="para">We work from 6 offices all over the world, bringing Docplanner Group to life in almost 20 countries.</p>
+        </div>
+        <div class="logoposition">
+        <img src="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/jcmy9zzlqh682l0my9p3" style="height: 420px" alt="image">
+        </div>   
+    </div>
+   <div class="white-box">
+    <div class="white-box1 aaa">
+    <div>
+    <img src="https://www.docplanner.com/img/flag.png" alt="image">
+    </div>
+    <div>
+     <p><strong>Leader in 10 countries</strong></p>
+     <p>Poland, Turkey, Spain, Italy, Czech Republic, Mexico, Brazil, Colombia, Argentina and Chile</p>
+    </div>
+    </div>
+    <div class="white-box1">
+        <div>
+            <img src="https://www.docplanner.com/img/visits.png" alt="image">
+        </div>   
+        <div>
+         <p><strong>1.5 million appointments</strong></p>
+         <p>booked last month</p>
+        </div>
+    </div>
+    <div class="white-box1 ">
+    <div>
+    <img src="https://www.docplanner.com/img/patients.png" alt="image">
+    </div>
+    <div>
+     <p><strong>30 million unique patients</strong></p>
+     <p>visit us every month</p>
+        </div>
+    </div>
+    <div class="white-box1 ccc">
+        <div>
+        <img src="https://www.docplanner.com/img/doctors.png" alt="image">
+        </div>
+        <div>
+     <p><strong>2 million active doctors</strong></p>
+     <p>trust in our solutions</p>
+        </div>
+    </div>
+    </div>
+</div>
+</div>
+
+<div class="title">
+    <p>Improve the lives of millions. Change yours forever</p>
+</div>
+<div>
+    <p class="para1">More than 1000 team mates share our same vision, goals and passion. With offices in Warsaw, Barcelona, Istanbul, Rome, Mexico City and Curitiba, our search for great talent never stops.</p>
+</div>
+<div class="photocity">
+<div class="picture">
+    <div>
+    <img src="https://www.docplanner.com/images/warsaw.png" alt="image">
+    </div>
+    <div class="bottom">
+    <p>Warsaw</p>
+    <span class="btn1">SEE OPENINGS</span>
+    </div>
+</div>
+<div class="picture">
+    <div>
+    <img src="https://www.docplanner.com/images/barcelona.png" alt="image">
+    </div>
+    <div class="bottom">
+    <p>Barcelona</p>
+    <span class="btn1">SEE OPENINGS</span>
+    </div>
+</div>
+<div class="picture">
+    <div>
+    <img src="https://www.docplanner.com/images/istanbul.png" alt="image">
+    </div>
+    <div class="bottom">
+    <p>Istanbul</p>
+    <span class="btn1">SEE OPENINGS</span>
+    </div>
+</div>
+<div class="picture">
+    <div>
+    <img src="https://www.docplanner.com/images/rome.png" alt="image">
+    </div>
+    <div class="bottom">
+    <p>Rome</p>
+    <span class="btn1">SEE OPENINGS</span>
+    </div>
+</div>
+<div class="picture">
+        <div>
+        <img src="https://www.docplanner.com/images/mexico-city.png" alt="image">
+        </div>
+        <div class="bottom">
+        <p>Mexico City</p>
+        <span class="btn1">SEE OPENINGS</span>
+        </div>
+    </div>
+<div class="picture">
+    <div>
+    <img src="https://www.docplanner.com/images/curitiba.png" alt="image">
+    </div>
+    <div class="bottom">
+    <p>Curitiba</p>
+    <span class="btn1">SEE OPENINGS</span>
+    </div>
+</div>             
+</div>   
+</div>
+</body>
+<footer id="bottom">
+<p> We are leaders in 10 countries:<a href="https://www.znanylekarz.pl/?_ga=2.145760182.345732267.1563003865-1503171569.1562905147">Poland</a>, <a href="https://www.doktortakvimi.com/?_ga=2.213065238.345732267.1563003865-1503171569.1562905147">Turkey</a>, <a href="https://www.doctoralia.es/">Spain</a>,<a href="https://www.miodottore.it/?_ga=2.184711083.345732267.1563003865-1503171569.1562905147">Italy</a>, <a href="https://www.znamylekar.cz/">Czech Republic</a>, <a href="https://www.doctoralia.com.mx/">Mexico</a>, <a href="https://www.doctoralia.co/">Colombia</a> ,<a href="http://www.doctoralia.com.br/">Brazil</a>, <a href="http://www.doctoraliar.com/">Argentina</a>  and <a href="http://www.doctoralia.cl/">Chile</a> </br>
+This site uses cookies to deliver services in accordance with this Privacy Policy. You can specify the conditions for storing or accessing cookies on your browser.www.docplanner.com © 2019 </p>
+</footer>
+</html>
+
+
+
+
+docplanerss
+.header{
+    border : 1px solid white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position : fixed;
+    width : 100%;
+}
+.menu{
+    
+    display: flex;
+justify-content:flex-end;
+cursor:pointer;
+}
+.menu>p{
+    margin: 0 20px
+}
+.header menu{
+    position:fixed;
+    top:0px;
+}
+.cards{
+    width: 100%;
+    display: flex;
+    justify-content: center
+}
+.logo{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding: 10px 20px;
+    background: white;
+    color: black;
+    border: white solid 1px;
+    border-radius: 5px;
+}
+.photo-con{
+    width: 250px;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    display: flex;
+
+}
+.bbbb{
+    position: relative;
+    height: 312px;
+}
+.photo{
+    width: 400px
+}
+#photo-con{
+    width: 250px;
+    overflow: hidden;
+    position: absolute;
+    right:0;
+    display: flex;
+}
+.photo1{
+    
+    width: 400px
+}
+.title{
+    text-align: center;
+    color:Teal;
+    font-size: 30px;
+}
+.para{
+  width: 600px;
+  display:flex;
+  justify-content: center;
+}
+.text{
+    display:flex;
+    justify-content:space-around;
+    align-content:center;
+    color: Grey;
+    margin: 50px 0px;
+}
+.text>p{
+    margin: 0 20px;}
+#box{
+        background-color:Teal;
+        border: 0px solid teal;
+ margin-right: 11px;
+
+border-radius: 5px;
+
+ width: 436px;
+ padding: 42px;
+}
+#box1{
+    background-color:blue;
+    width: 436px;
+    padding: 42px;
+    border-radius: 5px;
+    border: 0px solid blue;
+    margin-left: 11px
+}
+#box, #box1{
+    align-items: space-around;
+    flex-direction: row;
+}
+#box2{
+    background-color:hsl(180, 59%, 87%);
+    border: 0px solid teal;
+    padding: 0% 0% 0% 0%;
+    margin: 20px;
+    position:relative;
+    justify-content: flex-start;
+    display:inline-block;
+    display:flex;
+    flex-direction:row;
+}
+.white-box{
+    background-color:hsl(180, 59%, 87%);
+    width: 50%;
+    padding: 42px;
+    border-radius: 5px;
+    border: 0px solid hsl(180, 59%, 87%);
+    margin-left: 11px;
+    display:flex;
+    flex-direction:space-around;
+    flex-wrap: wrap;
+    margin-left: 102px;
+}
+.white-box1{
+    background-color:white;
+    width: 130px;
+    padding: 42px;
+    border-radius: 5px;
+    border: 0px solid white;
+    margin-left: 11px;
+    display:flex;
+    margin: 10px;
+    justify-content: center;
+  
+}
+.white-box>.white-box1{
+display:flex;
+flex-direction: column;
+align-items: flex-end;
+}
+.aaa{
+    margin-top: -24px;
+}
+.ccc{
+        margin-bottom: -24px
+}
+#gras{
+    display:flex;
+    justify-content:flex-start;
+    color: teal;
+    margin: 20px 0px;
+    font-size: 30px;
+}
+.items{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.drop-menu{
+    display: flex;
+    justify-content:space-between;
+    width:500px;
+    color:grey;
+}
+.logodoc{
+    cursor:pointer;
+    display: flex;
+    justify-content:flex-end;
+    align-items: space-around;
+}
+.gras{
+    display:flex;
+    justify-content:center;
+    color: teal;
+    margin: 20px 0px;
+    font-size: 30px;
+}
+.para1{
+        text-align: center;
+        color:black;
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+.photocity{
+border:1px thin white;
+width:80%;
+display:flex;
+justify-content: space-between;
+flex-direction:row;
+flex-wrap: wrap;
+align-content:center;
+margin-left: 145px;
+
+    }
+    .picture{
+        border:1px thin grey;
+        cursor:pointer;
+        border-radius: 5px;
+        display:flex;
+        justify-content: space-around;
+        justify-items: center;
+        flex-direction:column;
+        
+        margin-bottom: 40px;
+    }
+    .bottom{
+        display:flex;
+        flex-direction:row;
+        justify-content: space-around;
+        border-radius: 5px;
+        height: 30px;
+        cursor:pointer;
+    }
+    .btn1{
+        padding: 10px 20px;
+        background: blue;
+        color:white;
+        border: blue solid 1px;
+        border-radius: 5px;
+        display: flex;
+        flex-direction:row;
+    }
+    #bottom{
+        display:flex;
+        text-align: center;
+        align-content: center;
+    }
+    .title1{
+        text-align: left;
+        color:Teal;
+        font-size: 30px;
+    }
+    .logoposition{
+        height: 356px;
+        overflow: hidden;
+        position: relative;
+        left: 10;
+        display: flex;
+        margin-top:146px;
+        margin-left: 32px;
+    }
+    .firt-box{
+        height: 500px;
+        margin-top:30;
+        display:flex;
+        align-content:center;
+    }

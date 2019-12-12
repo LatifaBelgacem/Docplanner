@@ -1,0 +1,257 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position : fixed;
+    width : 100%;
+    margin-top: -26px;
+}
+.menu{
+    
+    display: flex;
+justify-content:flex-end;
+cursor:pointer;
+}
+.menu>p{
+    margin: 0 20px
+}
+.header menu{
+    position:fixed;
+    top:0px;
+}
+.cards{
+    width: 100%;
+    display: flex;
+    justify-content: center
+}
+.logo{
+display:flex;
+flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 72px;
+}
+.btn{
+    padding: 10px 20px;
+    background: white;
+    color: black;
+    border: white solid 1px;
+    border-radius: 5px;
+}
+.photo-con{
+    width: 250px;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    display: flex;
+
+}
+.bbbb{
+    position: relative;
+    height: 312px;
+}
+.photo{
+    width: 400px
+}
+#photo-con{
+    width: 250px;
+    overflow: hidden;
+    position: absolute;
+    right:0;
+    display: flex;
+}
+.photo1{
+    
+    width: 400px
+}
+.title{
+    text-align: center;
+    color:Teal;
+    font-size: 30px;
+}
+.para{
+  width: 600px;
+  display:flex;
+  justify-content: center;
+}
+.text{
+    display:flex;
+    justify-content:space-around;
+    align-content:center;
+    color: Grey;
+    margin: 50px 0px;
+}
+.text>p{
+    margin: 0 20px;}
+#box{
+background-color:Teal;
+border: 0px solid teal;
+margin-right: 11px;
+border-radius: 5px;
+width: 436px;
+padding: 42px;
+}
+#box1{
+    background-color:blue;
+    width: 436px;
+    padding: 42px;
+    border-radius: 5px;
+    border: 0px solid blue;
+    margin-left: 11px
+}
+#box, #box1{
+    align-items: space-around;
+    flex-direction: row;
+}
+#box2{
+    background-color:hsl(180, 59%, 87%);
+    border: 0px solid teal;
+    padding: 0% 0% 0% 0%;
+    margin: 20px;
+    position:relative;
+    justify-content: flex-start;
+    display:inline-block;
+    display:flex;
+    flex-direction:row;
+}
+.white-box{
+    background-color:hsl(180, 59%, 87%);
+    width: 50%;
+    padding: 42px;
+    border-radius: 5px;
+    border: 0px solid hsl(180, 59%, 87%);
+    margin-left: 11px;
+    display:flex;
+    flex-direction:space-around;
+    flex-wrap: wrap;
+    margin-left: 102px;
+}
+.white-box1{
+    background-color:white;
+    width: 130px;
+    padding: 42px;
+    border-radius: 5px;
+    border: 0px solid white;
+    margin-left: 11px;
+    display:flex;
+    margin: 10px;
+    justify-content: center;
+  
+}
+.white-box>.white-box1{
+display:flex;
+flex-direction: column;
+align-items: flex-end;
+}
+.aaa{
+    margin-top: -24px;
+}
+.ccc{
+        margin-bottom: -24px
+}
+#gras{
+    display:flex;
+    justify-content:flex-start;
+    color: teal;
+    margin: 20px 0px;
+    font-size: 30px;
+}
+.items{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.drop-menu{
+    display: flex;
+    justify-content: space-around;
+    width: 611px;
+    color: grey;
+    flex-wrap:wrap;
+}
+.logodoc{
+    cursor:pointer;
+    display: flex;
+    justify-content:flex-end;
+    align-items: space-around;
+    font-size:20px;
+}
+.gras{
+    display:flex;
+    justify-content:center;
+    color: teal;
+    margin: 20px 0px;
+    font-size: 30px;
+}
+.para1{
+        text-align: center;
+        color:black;
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+.photocity{
+border:1px thin white;
+width:80%;
+display:flex;
+justify-content: space-between;
+flex-direction:row;
+flex-wrap: wrap;
+align-content:center;
+margin-left: 145px;
+ }
+.picture{
+border:1px thin grey;
+        cursor:pointer;
+        border-radius: 5px;
+        display:flex;
+        justify-content: space-around;
+        justify-items: center;
+        flex-direction:column;
+        
+        margin-bottom: 40px;
+}
+.bottom{
+        display:flex;
+        flex-direction:row;
+        justify-content: space-around;
+        border-radius: 5px;
+        height: 30px;
+        cursor:pointer;
+}
+.btn1{
+        padding: 10px 20px;
+        background: blue;
+        color:white;
+        border: blue solid 1px;
+        border-radius: 5px;
+        display: flex;
+        flex-direction:row;
+#bottom{
+    border-top: 1px solid #eef2f2;
+    font-size: 14px;
+    color: #ababab;
+    padding: 12px 0;
+    display: flex;
+    text-align: center;
+    align-content: center;
+    margin-left: 155px;
+}
+    .title1{
+        text-align: left;
+        color:Teal;
+        font-size: 30px;
+    }
+    .logoposition{
+        height: 356px;
+        overflow: hidden;
+        position: relative;
+        left: 10;
+        display: flex;
+        margin-top:146px;
+        margin-left: 32px;
+    }
+    .firt-box{
+        height: 500px;
+        margin-top:30;
+        display:flex;
+        align-content:center;
+    }
